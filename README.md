@@ -2,8 +2,6 @@
 
 Calco is a mobile application that helps you track and reduce your personal carbon footprint. It calculates your carbon emissions from various sources such as transportation, electricity usage, food, and waste. It then presents the data in an easy-to-understand format and provides tips on how you can reduce your carbon emissions.
 
-![Calco Logo](screenshots/calco-logo.png)
-
 ## Features
 
 - Sign up and log in using your email and password
@@ -40,7 +38,7 @@ Calco is a mobile application that helps you track and reduce your personal carb
 
 1. Clone the repository
    ```
-   git clone https://github.com//calco.git
+   git clone https://github.com/DominicPrince2003/calco.git
    ```
 2. Install dependencies
    ```
